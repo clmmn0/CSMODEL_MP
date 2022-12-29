@@ -4,7 +4,7 @@ A case study on the dataset that is derived from the `Family Income and Expendit
 
 - Dataset Source: https://www.kaggle.com/grosvenpaul/family-income-and-expenditure
 
-# How to Run the Program
+# How to Run the Notebook
 1. Clone this repository.
 2. Navigate to the cloned version of this repository.
 3. Open the Jupyter Notebook `CSMODEL_MP_Notebook.ipynb`.
